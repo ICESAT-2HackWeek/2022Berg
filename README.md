@@ -1,6 +1,6 @@
 # Berg: "Harmonization of SAR and Laser Altimetry: Ship and Iceberg Detection"			
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
+ICESat-2 presents unique capabilities in measuring iceberg heights, something that cannot be done accurately with SAR imagery alone. As icebergs present issues for ships, laser altimetry provides a way to assess the potential risks in navigating through or around icebergs. SAR imagery has been applied to detect both icebergs and ships but distinguishing the features has proved difficult. Using ICESat-2, height measurements of objects could allow maritime observers to both distinguish these features and assess risks associated with icebergs. 			
 
 ## Files
 
@@ -17,6 +17,16 @@ This is as an example on how teams can structure their project repositories. Tha
 Each team member has it's own folder under contributors, where he/she can
 work on their contribution. Having a dedicated folder for one-self helps to 
 prevent conflicts when merging with master.
+
+* Jaemin
+* Alexis
+* Eric
+* Isolde
+* John
+* Lampros
+* Matt
+* Monojit
+* Jessica
 
 ### `notebooks`
 Notebooks that are considered delivered results for the project should go in
